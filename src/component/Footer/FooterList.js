@@ -4,9 +4,7 @@ export default function () {
   return (
     <>
       <div className="col-12 col-lg-3 mt-3">
-        <h5 clas ml-5>
-          Company
-        </h5>
+        <h5 className="ml-5">Company</h5>
         <ul className="text-muted font-weight-light">
           <li>
             <h6>About</h6>

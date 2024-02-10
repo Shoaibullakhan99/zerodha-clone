@@ -1,5 +1,6 @@
 import React from "react";
 import FooterList from "./FooterList";
+import "./Footer.css";
 
 export default function Footer() {
   return (
@@ -12,8 +13,7 @@ export default function Footer() {
               style={{ height: "30px", widht: "150px" }}
             ></img>
             <h5>
-              <i className="fas fa-phone-alt"></i>
-              +91 80 4040 2020
+              <i className="fas fa-phone-alt mr-2"></i>+91 80 4040 2020
             </h5>
             <small>
               &copy; 2010 - 2024, Zerodha Broking Ltd.
